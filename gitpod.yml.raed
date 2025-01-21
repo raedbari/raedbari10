@@ -1,0 +1,5 @@
+tasks:
+  - name: تشغيل التطبيق
+    command: |
+      npm install
+      npm start
